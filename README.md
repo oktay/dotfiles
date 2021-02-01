@@ -22,7 +22,7 @@ source install.sh
   - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
 - [pyenv/pyenv](https://github.com/pyenv/pyenv)
-- [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv.git)
+  - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv.git)
 - [starship/starship](https://github.com/starship/starship)
 
 ## Inspiration 
