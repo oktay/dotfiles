@@ -1,4 +1,4 @@
-export ZSH="/home/oktay/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 export PATH="$(yarn global bin):$PATH"
 export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
