@@ -1,9 +1,6 @@
 # dotfiles
 This is my basic shell and git configuration
 
-![Screenshot](.github/screenshot.png)
-*[microsoft/terminal](https://github.com/microsoft/terminal) with [Snazzy](https://windowsterminalthemes.dev/?theme=Snazzy) colors and [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code ) font-family using [starship/starship](https://github.com/starship/starship) prompt*
-
 ## Requirements
 ```
 git, curl, wget, zsh
