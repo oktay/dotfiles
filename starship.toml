@@ -1,14 +1,31 @@
-add_newline = true
+add_newline = false
 
 [character]
-success_symbol = "[➜](bold green)"
-error_symbol = "[➜](bold red)"
+success_symbol = "[](bold black)"
+error_symbol = "[](bold red)"
 
 [package]
-disabled = false
+disabled = true
 
 [nodejs]
-disabled = false
+disabled = true
 
 [line_break]
-disabled = false
+disabled = true
+
+[username]
+style_user = "green"
+format = "[@$user:]($style) "
+show_always = false
+
+[directory]
+style = "blue"
+
+[git_branch]
+symbol = ""
+style = "purple"
+format = "[$symbol$branch]($style) "
+
+[git_status]
+style = "purple"
+format = "([\\($all_status$ahead_behind\\) ]($style))"
