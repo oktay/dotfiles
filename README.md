@@ -18,10 +18,8 @@ source install.sh
   - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
   - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm)
-- [pyenv/pyenv](https://github.com/pyenv/pyenv)
-  - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv.git)
-- [starship/starship](https://github.com/starship/starship)
-
+- ZSH Theme based on [
+renbaoshuo/codespaces.zsh-theme](https://gist.github.com/renbaoshuo/93f75878fe29cf9ad48a675abd69ef97)
 ## Inspiration 
 - [buymeasoda/dotfiles](https://github.com/buymeasoda/dotfiles/)
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
